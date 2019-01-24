@@ -4,3 +4,4 @@
   entry: makefile-task.sh
   language: script
   types: [shell]
+  always_run: true
