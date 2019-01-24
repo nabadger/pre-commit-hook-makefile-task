@@ -1,6 +1,6 @@
 - id: makefile-task
   name: Run a task from the local Makefile
-  description: Run a task from the local Makefile. Makefile must be in the same directory as the .pre-commit-config.yaml file. Pass task as args: [task]
+  description: Run a task from the local Makefile. Makefile must be in the same directory as the .pre-commit-config.yaml file.
   entry: makefile-task.sh
   language: script
   types: [shell]
