@@ -4,4 +4,3 @@
   entry: makefile-task.sh
   language: script
   types: [shell]
-  files: 'Makefile'
